@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Hussain
 
-🚀 **Full Stack Web Developer (Next.js)** | 🤖 **AI / ML / Deep Learning Enthusiast**
+🚀 **Full Stack Developer (Next.js)** | 🤖 **AI / ML Engineer**
 
-I build fast, scalable, and clean web applications using modern technologies. I don’t just make things “work” — I make them efficient, maintainable, and production-ready.
+I design and build high-performance web applications with a focus on scalability, clean architecture, and real-world impact.
+Not here to just “build apps” — I build systems that actually hold up.
 
 ---
 
 ## 🧠 About Me
 
-* 💻 Full Stack Developer specializing in **Next.js ecosystem**
-* ⚡ Strong focus on **performance, UX, and scalable architecture**
-* 🤖 Skilled in **AI, Machine Learning & Deep Learning**
-* 🔍 Always exploring new tech and building real-world solutions
+* 💻 Specialized in **Next.js full stack development**
+* ⚡ Obsessed with **performance, clean architecture, and UX**
+* 🤖 Experienced in **AI, Machine Learning & Deep Learning**
+* 🛠️ I build solutions, not just features
 
 ---
 
@@ -19,58 +20,65 @@ I build fast, scalable, and clean web applications using modern technologies. I 
 
 ### 🚀 Frontend
 
-* Next.js
-* React.js
-* Tailwind CSS
-* Framer Motion
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css" />
+</p>
 
 ### 🔧 Backend
 
-* Node.js
-* Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 * REST APIs
-* Authentication Systems
+* Authentication (JWT, sessions)
 
 ### 🗄️ Database
 
-* MongoDB
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🤖 AI / ML
 
-* Python
-* TensorFlow
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
 * Scikit-learn
 * Deep Learning Models
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-🔹 **Portfolio Website**
-Modern, responsive personal portfolio built with Next.js
+### 🔹 Portfolio Website
 
-🔹 **E-commerce Platform**
-Full-stack store with authentication, cart, and payment integration
+Modern, responsive portfolio built with Next.js and optimized UI/UX
 
-🔹 **AI-Based Applications**
-Projects involving ML models and intelligent systems
+### 🔹 E-commerce Platform
+
+Full-stack system with authentication, cart, and scalable backend
+
+### 🔹 AI-Based Applications
+
+Machine learning and deep learning powered solutions
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <a href="https://www.facebook.com/hussianug" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <a href="https://www.instagram.com/hussiandeveloper9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/HussainTmg" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:hussaintmerng@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
@@ -80,24 +88,24 @@ Projects involving ML models and intelligent systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HussainTmg&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainTmg&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## ⚡ What I Believe
+## ⚡ Philosophy
 
-> Clean code. Fast apps. Real impact.
+> Build fast. Scale smart. Keep it clean.
 
 ---
 
 ## 📌 Currently
 
-* 🔭 Working on advanced **Next.js applications**
-* 🤖 Exploring **AI-powered web solutions**
-* 📈 Improving system design & scalability skills
+* 🔭 Building **production-level Next.js applications**
+* 🤖 Working on **AI-integrated web systems**
+* 📈 Learning **system design & scalability**
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories.*
+⭐ *If you find my work useful, give it a star — or don’t, I’ll still keep building.*
