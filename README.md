@@ -70,7 +70,7 @@ Machine learning and deep learning powered solutions
 
 <p align="left">
   <a href="https://www.facebook.com/hussianug" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" style="fill:#1877F2;/>
   </a>
   <a href="https://www.instagram.com/hussiandeveloper9" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
